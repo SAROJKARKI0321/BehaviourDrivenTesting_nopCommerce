@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="AutomationSuite">
+    <test name="Regression">
+        <classes>
+            <class name="runner.TestRunner" /> <!-- update with your actual runner class -->
+        </classes>
+    </test>
+</suite>
